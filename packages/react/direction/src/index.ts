@@ -1,7 +1,8 @@
+'use client';
 export {
   useDirection,
   //
   Provider,
   //
   DirectionProvider,
-} from './Direction';
+} from './direction';
